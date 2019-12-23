@@ -10,4 +10,4 @@
 Each problem will have it's own folder with a Readme to describe the problem and a code file with a solution and tests.
 
 ## Resources
-*Edabit
+* Edabit
