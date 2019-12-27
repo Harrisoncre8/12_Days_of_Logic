@@ -1,4 +1,4 @@
-Create a function that takes in an array of numbers and returns the sum of its cubes.
+Create a function that takes in an array of positive integers and returns the sum of its cubes.
 
 > If given an empty array, return 0.
 
