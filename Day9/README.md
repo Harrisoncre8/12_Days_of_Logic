@@ -1,7 +1,7 @@
 Given a word, write a function that returns the first index and the last index of a character.
 
-> If the character does not exist in the word, return undefined.
-> If only one instance of the character exists, the first and last index will be the same.
+> * If the character does not exist in the word, return undefined.
+> * If only one instance of the character exists, the first and last index will be the same.
 
 Examples
 
