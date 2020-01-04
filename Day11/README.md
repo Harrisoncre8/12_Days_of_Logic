@@ -1,12 +1,15 @@
-Write a function that returns the first n vowels of a string.
-
-> * Return "invalid" if the n exceeds the number of vowels in a string.
-> * Vowels are: a, e, i, o, u
+Write a function that converts an object into an array of keys and values.
 
 Examples
 
-firstNVowels("sharpening skills", 3) ➞ "aei"
+objectToArray({
+  D: 1,
+  B: 2,
+  C: 3
+}) ➞ [["D", 1], ["B", 2], ["C", 3]]
 
-firstNVowels("major league", 5) ➞ "aoeau"
-
-firstNVowels("hostess", 5) ➞ "invalid"
+objectToArray({
+  likes: 2,
+  dislikes: 3,
+  followers: 10
+}) ➞ [["likes", 2], ["dislikes", 3], ["followers", 10]]
