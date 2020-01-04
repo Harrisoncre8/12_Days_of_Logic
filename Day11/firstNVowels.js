@@ -1,0 +1,3 @@
+function firstNVowels(s, n) {
+	
+}
